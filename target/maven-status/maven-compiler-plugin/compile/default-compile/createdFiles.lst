@@ -1,5 +1,0 @@
-com/example/service/ServiceApplication.class
-org/springframework/boot/cloud/CloudFoundryVcapEnvironmentPostProcessor.class
-com/example/service/CustomerHttpController.class
-com/example/service/CustomerRepository.class
-com/example/service/Customer.class
